@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Workspaces/Eclipse/analysis/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/Eclipse/analysis/libs/commons-io-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/Eclipse/analysis/libs/json.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/Eclipse/analysis/libs/jsoup-1.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/Eclipse/analysis/libs/jsoup-1.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/Eclipse/analysis/libs/jsoup-1.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/JAR/httpcomponents-client-4.2.2/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/JAR/httpcomponents-client-4.2.2/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/JAR/httpcomponents-client-4.2.2/lib/fluent-hc-4.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/JAR/httpcomponents-client-4.2.2/lib/httpclient-4.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/JAR/httpcomponents-client-4.2.2/lib/httpclient-cache-4.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/JAR/httpcomponents-client-4.2.2/lib/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Workspaces/JAR/httpcomponents-client-4.2.2/lib/httpmime-4.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/DevelopmentSoftware/MySQL/Connector.J 5.1/mysql-connector-java-5.1.35-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
